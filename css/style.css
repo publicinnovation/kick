@@ -249,6 +249,11 @@ a:focus {
 	box-shadow: 0 0px 0px rgba(0,0,0,0);
 }
 
+.alert {
+	padding-top: 85px;
+	margin-bottom: 0px;
+}
+
 /* Section Wraps */
 
 #headerwrap {
